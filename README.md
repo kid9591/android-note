@@ -1,5 +1,4 @@
 # android-note
-Android topics
 
 ### Material Guideline
 
