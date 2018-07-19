@@ -10,3 +10,6 @@
 
 #### Font size guide
 * [Learnui.design](https://learnui.design/blog/android-material-design-font-size-guidelines.html)
+
+#### Search/filer in a list
+* [Androidhive](https://www.androidhive.info/2017/11/android-recyclerview-with-search-filter-functionality/)
