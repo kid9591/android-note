@@ -15,4 +15,4 @@
 * [Androidhive](https://www.androidhive.info/2017/11/android-recyclerview-with-search-filter-functionality/)
 1. `Adapter` implements `Filterable`
 2. Use `dataSource` & `filteredDatasource` (`filteredDatasource` is the main list of `Adapter`)
-3. `SearchView|EditText` calls: adapter.getFilter().filter(charSequence)
+3. `SearchView|EditText` calls: `adapter.getFilter().filter(charSequence)`
