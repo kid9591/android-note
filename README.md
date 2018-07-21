@@ -16,3 +16,6 @@
 1. `Adapter` implements `Filterable`
 2. Use `dataSource` & `filteredDatasource` (`filteredDatasource` is the main list of `Adapter`)
 3. `SearchView|EditText` calls: `adapter.getFilter().filter(charSequence)`
+
+#### Custom EditText to make PIN view
+* [Medium-PinEntryEdittext](https://medium.com/@ali.muzaffar/building-a-pinentryedittext-in-android-5f2eddcae5d3)
