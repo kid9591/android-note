@@ -32,3 +32,19 @@
 #### [Android Architecture Component](https://developer.android.com/topic/libraries/architecture/)
 
 #### Good examples [CodeLabs](https://codelabs.developers.google.com/)
+
+#### [Support library and cool things](https://developer.android.com/topic/libraries/support-library/features)
+* `PercentRelativeLayout, PercentFrameLayout`
+* `AppCompatDialogFragment = DialogFragment + AppCompatDialog`
+* `CoordinatorLayout, AppBarLayout`
+* `Vector drawables`
+
+#### [Android Jetpack - Quick build Android apps using components](https://developer.android.com/jetpack/)
+
+### KOTLIN lang
+
+#### [Android Offical](https://developer.android.com/kotlin/)
+
+### Android platform Docs & Guides
+
+#### [Android Developer](https://developer.android.com/docs/)
