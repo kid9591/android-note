@@ -26,3 +26,9 @@
  - View's LifeCycle: `init -> onMeasure(đo đạc và xác định width height) -> onLayout (có width height + toạ độ 4 góc) -> onDraw (vẽ view)` 
 * [Kipalog - Facebook Reaction](https://kipalog.com/posts/Android-2D-Graphics--Phan-tich-va-mo-phong-nut-cam-xuc-cua-Android-Facebook-Application)
 * [Video explanation](https://academy.realm.io/posts/360andev-huyen-tue-dao-measure-layout-draw-repeat-custom-views-and-viewgroups-android/)
+
+### News in Android
+
+#### [Android Architecture Component](https://developer.android.com/topic/libraries/architecture/)
+
+#### Good examples [CodeLabs](https://codelabs.developers.google.com/)
