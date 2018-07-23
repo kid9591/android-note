@@ -48,3 +48,7 @@
 ### Android platform Docs & Guides
 
 #### [Android Developer](https://developer.android.com/docs/)
+
+### Android Studio guide
+
+#### [Android Developer](https://developer.android.com/studio/intro/)
