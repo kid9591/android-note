@@ -27,6 +27,9 @@
 * [Kipalog - Facebook Reaction](https://kipalog.com/posts/Android-2D-Graphics--Phan-tich-va-mo-phong-nut-cam-xuc-cua-Android-Facebook-Application)
 * [Video explanation](https://academy.realm.io/posts/360andev-huyen-tue-dao-measure-layout-draw-repeat-custom-views-and-viewgroups-android/)
 
+#### Drop shadow for view/textview
+* [Youtube](https://www.youtube.com/watch?v=nNHChjTZCtw)
+
 ### News in Android
 
 #### [Android Architecture Component](https://developer.android.com/topic/libraries/architecture/)
