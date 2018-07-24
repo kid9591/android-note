@@ -29,6 +29,9 @@
 
 #### Drop shadow for view/textview
 * [Youtube](https://www.youtube.com/watch?v=nNHChjTZCtw)
+* [Github - materialshadowninepatch](https://github.com/h6ah4i/android-materialshadowninepatch)
+* [Github - Carbon](https://github.com/ZieIony/Carbon)
+* [Github - Material Shadow](https://github.com/harjot-oberai/MaterialShadows)
 
 ### News in Android
 
