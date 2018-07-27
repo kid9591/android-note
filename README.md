@@ -1,5 +1,10 @@
 # android-note
 
+### Commom issues
+
+#### Memory leaks
+* [Garena explanation](https://engineering.garena.com/memory-leaks-in-android/)
+
 ### Material Guideline
 
 #### Style and Theme
