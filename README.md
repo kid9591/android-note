@@ -63,3 +63,11 @@
 ### Android Studio guide
 
 #### [Android Developer](https://developer.android.com/studio/intro/)
+
+### Dagger 
+
+#### [Android Dagger (2.11–2.16) Butterknife (8.7-8.8) MVP (Part 1)](https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd)
+
+### Clean Architecture
+
+#### [hantrungkien_github](https://github.com/hantrungkien/android-clean-architecture-components-boilerplate)
