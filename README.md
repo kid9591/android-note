@@ -40,6 +40,8 @@
 
 ### News in Android
 
+#### [Mastering ConstraintLayout](https://www.youtube.com/watch?v=rzmB3UxxhaA)
+
 #### [Android Architecture Component](https://developer.android.com/topic/libraries/architecture/)
 
 #### Good examples [CodeLabs](https://codelabs.developers.google.com/)
