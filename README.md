@@ -7,6 +7,8 @@
 
 ### Material Guideline
 
+#### [Material Components from Google](https://github.com/material-components/material-components-android/blob/master/docs/getting-started.md)
+
 #### Style and Theme
 * [Google Guide](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
 
@@ -40,8 +42,12 @@
 
 ### News in Android
 
-#### [Mastering ConstraintLayout](https://www.youtube.com/watch?v=rzmB3UxxhaA)
-#### [Mastering ConstraintLayout 2](https://www.youtube.com/watch?v=ytZteMo4ETk)
+#### ConstraintLayout
+* [Mastering ConstraintLayout](https://www.youtube.com/watch?v=rzmB3UxxhaA)
+* [Mastering ConstraintLayout 2](https://www.youtube.com/watch?v=ytZteMo4ETk)
+* Note:
+1. Tools attribute: live data when creating layout
+2. Advanced animation
 
 #### [Android Architecture Component](https://developer.android.com/topic/libraries/architecture/)
 
@@ -54,6 +60,8 @@
 * `Vector drawables`
 
 #### [Android Jetpack - Quick build Android apps using components](https://developer.android.com/jetpack/)
+* [Raywenderlich guide](https://www.raywenderlich.com/5365-jetpack-navigation-controller)
+* [Google-Getting started](https://developer.android.com/jetpack/docs/getting-started)
 
 ### KOTLIN lang
 
